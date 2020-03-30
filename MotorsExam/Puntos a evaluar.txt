@@ -1,0 +1,9 @@
+- Crear un Terrain
+- Triggers: zona de muerte, zona de inversion de controles, item recolectable.
+- 2 Inputs Action/Axis
+- HUD: items recogidos (coins), tiempo transcurrido, la vida del player (Danger zone creada per treure vida al player al contacte)
+- 2 animaciones para los elementos del HUD
+- Aplicar la funcionalidad de que el player pueda poseer alguna IA
+- Crear una secuencia que contenga al menos 4 de las siguientes opciones:pinchar una nueva camera, bloquear los controles del player, lanzar un sonido, mover objeto.
+-  Crear y lanzar un sonido que al menos tenga 2 de estas características: que cuando se lance no siempre suene el mismo clip, modificar su pitch
+
